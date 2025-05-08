@@ -5,7 +5,7 @@
             "use": "@vercel/python",
             "config": {
                 "maxLabdaSize": "15mb",
-                "runtime": "python3.9"
+                "runtime": "python 3.9"
             }
         }
     ],
